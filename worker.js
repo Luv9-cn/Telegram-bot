@@ -1,5 +1,5 @@
-const BOT_TOKEN = '8534609677:AAFGQcLKqiCcGhyCgBgzwsaLcTBB6t-UIUw';
-const ADMIN_ID = '8346745644';
+const BOT_TOKEN = '1234567890:AAFGQcLKqACcGhyCgBgzwsaLcvBB6t-UIUw';
+const ADMIN_ID = '1234567890';
 const API_URL = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
 const memoryStore = { sessions: {} };
@@ -544,4 +544,5 @@ export default {
       });
     }
   }
+
 };
